@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 # Package metadata
-NAME = "keyword_extraction1"
+NAME = "keyword_extraction"
 VERSION = "1.0.0"
 DESCRIPTION = "A FastAPI application for keyword extraction and classification."
 AUTHOR = "kalpitha"
