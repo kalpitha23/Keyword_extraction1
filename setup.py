@@ -10,7 +10,6 @@ URL = "https://github.com/kalpitha23/Keyword_extraction1"
 
 # List of dependencies
 INSTALL_REQUIRES = [
-    "python>=3.11.3",
     "openai>=0.95.2",
     "fastapi>=0.27.0",
     "pydantic>=1.10.8",
